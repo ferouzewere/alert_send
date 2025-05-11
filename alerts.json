@@ -1,0 +1,20 @@
+{
+    "alerts": [
+        {
+            "title": "System Status Update",
+            "message": "All systems are running normally",
+            "severity": "info",
+            "sender": "System Monitor",
+            "image_url": "https://example.com/images/info_icon.png",
+            "timestamp": "2025-05-10 12:00 UTC"
+        },
+        {
+            "title": "High CPU Usage Alert",
+            "message": "Server CPU usage has exceeded 90%",
+            "severity": "high",
+            "sender": "Resource Monitor",
+            "image_url": "https://example.com/images/high_cpu_icon.png",
+            "timestamp": "2025-05-10 14:00 UTC"
+        }
+    ]
+}
